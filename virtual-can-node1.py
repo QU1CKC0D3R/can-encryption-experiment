@@ -10,7 +10,7 @@ from statistics import mean
 # be uncommented easily for testing
 
 # Define an easily changeable variable for whether or not to use encryption
-ENC = False
+ENC = True
 
 # Define variables to use throughout
 msgCnt = 0
